@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivachandanala
-- 👀 I’m interested in Development
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Advanced Coding
 - 📫 How to reach me postboxshiva@outlook.com
 
